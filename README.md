@@ -21,9 +21,12 @@ After you have cloned the repository and downloaded an extension you will be abl
 - [GitHub Repository](https://github.com/CameronHeadlee/Password-Generator)
 
 #### Screenshots of application:
-- [On open](password_1.png)    
-- [Creating Password](password_2.png)  
-- [Created Password](password_3.png)
+- Image of application when initially opened.    
+![Image of application first opened.](img/password_1.png)      
+- Image of application during process of generating password.  
+![Creating Password](img/password_2.png)  
+- Image of the randomly generated password.    
+![Created Password](img/password_3.png)
 
 ## Credits
 This application was built using:
