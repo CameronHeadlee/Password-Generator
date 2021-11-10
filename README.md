@@ -32,7 +32,7 @@ After you have cloned the repository and downloaded an extension you will be abl
 This application was built using:
 - HTML5  
 - JavaScript  
-- CSS  
+- CSS3  
 
 ## License
 This application is licensed under the MIT License  
