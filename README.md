@@ -1,5 +1,5 @@
 # Password-Generator
-This application was built to assist with generating a strong password with random numbers and characters. You have the choice to choose a number between 1 and 128 to generate the password length.
+This application was built to assist with generating a strong password with random numbers, letters, and characters. After, you have opened the application simply click on the generate password button. You will be prompted to answer some questions in the modal that appears at the top of the screen. You then have the choice to choose a number between 1 and 128 for password length, capital letters, numeric characters, lowercase letters, and special characters. Once you have fulfilled all of these questions to your liking a random password will be generated for you.
 
 # Table of Contents 
 - [Installation](#installation)  
@@ -17,4 +17,27 @@ After you have cloned the repository and downloaded an extension you will be abl
 ### Links 
 
 #### Project Links:
-- []
+- [Deployment from GitHub Pages](https://cameronheadlee.github.io/Password-Generator/)  
+- [GitHub Repository](https://github.com/CameronHeadlee/Password-Generator)
+
+#### Screenshots of application:
+- [On open](password_1.png)    
+- [Creating Password](password_2.png)  
+- [Created Password](password_3.png)
+
+## Credits
+This application was built using:
+- HTML5  
+- JavaScript  
+- CSS  
+
+## License
+This application is licensed under the MIT License  
+![GitHub](https://img.shields.io/github/license/CameronHeadlee/Password-Generator)
+
+## Questions
+If you have any questions or suggestions on improvements please email me below:
+- [Email](mailto:camhcodes11@gmail.com)
+
+Checkout what else I have been working on!
+-[GitHub](https://github.com/CameronHeadlee?tab=repositories)
